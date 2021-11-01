@@ -35,7 +35,7 @@ func DownloadObject(sess *session.Session) {
 	fmt.Println("Successfully downloaded")
 }
 
-func main () {
+func d () {
 
 	fmt.Println("Download file")
 

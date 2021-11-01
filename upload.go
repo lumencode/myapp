@@ -37,7 +37,7 @@ func UploadObject(sess *session.Session) {
 	fmt.Printf("Upload Result: %+v\n", result)
 }
 
-func main () {
+func u () {
 
 	fmt.Println("Upload file")
 
