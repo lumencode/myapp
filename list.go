@@ -9,7 +9,7 @@ import (
 	"github.com/aws/aws-sdk-go/service/s3"
 )
 
-func main () {
+func l () {
 
 	fmt.Println("List of buckets")
 
